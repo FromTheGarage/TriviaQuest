@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start Menu.unity
+    guid: 3d4ab89a67b2f51409a4947b00ed4b3a
+  - enabled: 1
+    path: Assets/Scenes/Question 1 Scene.unity
+    guid: 20f67c26fa8028b45a15fe9c73d29958
+  - enabled: 1
+    path: Assets/Scenes/Question 2 Scene.unity
+    guid: 5118bc0efa0b4b74fafe49247fad69ca
+  - enabled: 1
+    path: Assets/Scenes/Question 3 Scene.unity
+    guid: 445a941b6bcc9f64296e47e3fea0a2ec
+  - enabled: 1
+    path: Assets/Scenes/Question 4 Scene.unity
+    guid: cd8e66d5a4902794b951748ca4578a64
+  - enabled: 1
+    path: Assets/Scenes/Question 5 Scene.unity
+    guid: dc52a2d00702e74438cf592d22c237b0
+  - enabled: 1
+    path: Assets/Scenes/Question 6 Scene.unity
+    guid: 7b29bf65bac23134eb237e31bd5923ad
+  - enabled: 1
+    path: Assets/Scenes/Questions 7 Scene.unity
+    guid: 323c3928335543c4a97986234ace0a52
+  - enabled: 1
+    path: Assets/Scenes/Questions 8 Scene.unity
+    guid: 7029eba4d771a214399c9cd3e4ab22f2
+  - enabled: 1
+    path: Assets/Scenes/Question 9 Scene.unity
+    guid: 3de3f36185c068c40bfc6b09f772b7a9
+  - enabled: 1
+    path: Assets/Scenes/Question 10 Scene.unity
+    guid: 0e209586128f8a14cb168e2ff39c4ee9
+  - enabled: 1
+    path: Assets/Scenes/End Results Scene.unity
+    guid: 7abe2ff526076934a976cc5059a1b127
+  m_configObjects: {}
